@@ -1,0 +1,21 @@
+#shopping chat bot
+import time                  #imports time so time.sleep works 
+print ("What would you like to buy from the super market")         #print function
+time.sleep (2.5) #wait function
+print ("pick one of the 6 options!")                              #print function
+time.sleep (2.5) #wait function
+print ("press 1 for groccery shopping")                           #print function
+time.sleep (2.5) #wait function
+print ("press 2 for snacks")                                        #print function
+time.sleep (2.5) #wait function
+print ("press 3 for home goods")                                      #print function
+time.sleep (2.5) #wait function
+print ("press 4 for furniture")                                     #print function
+time.sleep (2.5) #wait function
+print ("press 5 for toys")                                          #print function
+time.sleep (2.5) #wait function
+print ("press 6 for electronics")                                   #print function
+choice1=int(input())            #user input function
+print ("Thanks for choosing youre item")                             #print function
+time.sleep (2.5) #wait function
+print ("you will be redirected too youre desired department soon!")       #print function
