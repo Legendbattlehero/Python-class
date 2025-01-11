@@ -1,0 +1,16 @@
+import time #import function so time.sleep works
+
+print("Enter you're name") #print function
+Name = str(input()) #input function
+print("Enter you're age") #print function
+age = int(input())  #input function
+print("whats you're hobbys") #print function
+hobbys = str(input()) #input function
+print("you're details are as follows:") #print function
+time.sleep(1) #wait function
+print("youre name is ", Name) #print function
+time.sleep(2) #wait function
+print("youre age is ", age) #print function
+time.sleep(2) #wait function
+print("youre hobbys are", hobbys) #print function
+time.sleep(10) #wait function
