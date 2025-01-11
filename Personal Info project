@@ -1,3 +1,4 @@
+# Personal Info Saver
 import time #import function so time.sleep works
 
 print("Enter you're name") #print function
@@ -14,3 +15,8 @@ print("youre age is ", age) #print function
 time.sleep(2) #wait function
 print("youre hobbys are", hobbys) #print function
 time.sleep(10) #wait function
+
+
+
+
+#does not save anything
